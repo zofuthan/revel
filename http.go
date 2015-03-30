@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"golang.org/x/net/websocket"
+	"github.com/zofuthan/net/websocket"
 )
 
 type Request struct {

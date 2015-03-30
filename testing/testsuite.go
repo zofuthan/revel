@@ -16,9 +16,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/revel/revel"
+	"github.com/zofuthan/revel"
 
-	"golang.org/x/net/websocket"
+	"github.com/zofuthan/net/websocket"
 )
 
 type TestSuite struct {
