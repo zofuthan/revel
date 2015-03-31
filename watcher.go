@@ -1,7 +1,7 @@
 package revel
 
 import (
-	"gopkg.in/fsnotify.v1"
+	"github.com/zofuthan/fsnotify"
 	"os"
 	"path"
 	"path/filepath"
